@@ -9,3 +9,4 @@ Përkthyer në gjuhën tonë amtare nga: Arianit Kukaj
 ## Translating Flarum
 
 Translated by Arianit Kukaj.
+ Updated-
