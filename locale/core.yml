@@ -390,7 +390,7 @@ core:
 
     # These translations are found on the user profile page (admin function).
     user_controls:
-      button: Controls
+      button: Kontrolli
       delete_button: => core.ref.delete
       delete_confirmation: "Je i sigurt që dëshiron ta fshish këtë përdorues? Të gjitha postimet e përdoruesit do të fshihen."
       edit_button: => core.ref.edit
