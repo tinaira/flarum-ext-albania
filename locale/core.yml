@@ -156,7 +156,7 @@ core:
     # These translations are used in the dropdown menus on the Permissions page.
     permissions_controls:
       allow_indefinitely_button: Kohë e pacaktuar
-      allow_some_minutes_button: "For {count} minute|For {count} minutes"
+      allow_some_minutes_button: "Për {count} minuta|Për {count} minuta"
       allow_ten_minutes_button: Për 10 minuta
       allow_until_reply_button: Deri në përgjigjien e ardhëshme
       everyone_button: Të gjithë
