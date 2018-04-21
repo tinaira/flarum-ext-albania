@@ -235,11 +235,11 @@ core:
 
     # These translations are used in the discussion list.
     discussion_list:
-      empty_text: It looks like there are no discussions here.
+      empty_text: Nuk ka asnji diskutim këtu.
       load_more_button: => core.ref.load_more
       mark_as_read_tooltip: Shenoji si të lexuara
-      replied_text: "{username} replied {ago}"
-      started_text: "{username} started {ago}"
+      replied_text: "{username} përgjigjur {ago}"
+      started_text: "{username} krijoji {ago}"
 
     # These translations are used in the Edit User modal dialog (admin function).
     edit_user:
@@ -299,14 +299,14 @@ core:
       invalid_login_message: Të dhënat e identifikimit tënd ishin të pasakta.
       password_placeholder: => core.ref.password
       remember_me_label: Më kujto
-      sign_up_text: "Don't have an account? <a>Sign Up</a>"
+      sign_up_text: "Nuk keni llogari ende? <a>Krijo nji</a>"
       submit_button: => core.ref.log_in
       title: => core.ref.log_in
       username_or_email_placeholder: Emrin e përdoruesit ose email-in
 
     # These translations are used by the Notifications dropdown, a.k.a. "the bell".
     notifications:
-      discussion_renamed_text: "{username} changed the title"
+      discussion_renamed_text: "{username} ndryshoj titullin në"
       empty_text: Asnjë njoftim
       mark_all_as_read_tooltip: => core.ref.mark_all_as_read
       title: => core.ref.notifications
