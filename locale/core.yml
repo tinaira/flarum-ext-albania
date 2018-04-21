@@ -137,7 +137,7 @@ core:
       allow_post_editing_label: Lejo editimin e postimit
       create_heading: Krijo
       delete_discussions_forever_label: Fshi diskutimet përgjithmonë
-      delete_discussions_label: Delete discussions
+      delete_discussions_label: Fshij diskutimet
       delete_posts_forever_label: Fshi postimet përgjithmonë
       edit_and_delete_posts_label: Redakto dhe fshini postimet
       global_heading: Përgjithshme
